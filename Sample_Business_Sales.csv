@@ -1,0 +1,501 @@
+Date,Region,Category,Marketing_Spend,Discount_Percent,Units_Sold,Revenue,Profit
+2025-01-01,Asia-Pacific,Home Appliances,1077.43,15,63,6817.45,2100.7
+2025-01-02,Latin America,Electronics,850.53,10,51,3026.58,941.62
+2025-01-03,North America,Electronics,533.34,20,28,2878.03,1021.56
+2025-01-04,Asia-Pacific,Office Supplies,1239.31,0,65,6420.13,1498.15
+2025-01-05,Asia-Pacific,Home Appliances,1058.62,20,65,5358.77,1785.88
+2025-01-06,Latin America,Electronics,327.66,0,18,1250.07,352.7
+2025-01-07,North America,Office Supplies,1375.3,5,80,9436.41,3287.16
+2025-01-08,North America,Home Appliances,1251.55,0,61,2104.29,836.74
+2025-01-09,Asia-Pacific,Office Supplies,1429.72,15,82,7586.28,1518.49
+2025-01-10,Europe,Clothing,1116.01,10,68,2660.1,1060.48
+2025-01-11,Asia-Pacific,Electronics,958.78,5,62,3337.23,575.52
+2025-01-12,Asia-Pacific,Clothing,685.54,0,43,2187.4,329.38
+2025-01-13,Asia-Pacific,Home Appliances,1405.82,20,84,9635.1,1551.64
+2025-01-14,Asia-Pacific,Clothing,1312.49,5,86,10039.26,2363.7
+2025-01-15,Latin America,Clothing,163.31,5,15,574.52,177.08
+2025-01-16,North America,Home Appliances,136.91,0,14,310.85,51.99
+2025-01-17,Latin America,Office Supplies,627.05,5,41,3772.03,571.15
+2025-01-18,Latin America,Clothing,1234.77,20,65,4016.93,1543.6
+2025-01-19,Latin America,Office Supplies,1482.19,5,79,2281.84,811.15
+2025-01-20,Asia-Pacific,Clothing,310.58,20,18,1590.76,560.42
+2025-01-21,Europe,Office Supplies,931.78,0,65,4843.19,1797.34
+2025-01-22,North America,Home Appliances,633.25,10,43,5076.22,1649.81
+2025-01-23,Europe,Clothing,1457.88,5,79,3376.54,594.61
+2025-01-24,Latin America,Home Appliances,1278.97,10,59,3563.47,890.07
+2025-01-25,Latin America,Clothing,1273.66,20,61,4529.53,1498.31
+2025-01-26,Europe,Home Appliances,756.17,5,49,4859.33,1069.46
+2025-01-27,Europe,Home Appliances,680.75,15,30,2246.52,723.05
+2025-01-28,Europe,Clothing,482.77,10,33,2682.57,418.82
+2025-01-29,Latin America,Clothing,178.93,5,12,511.38,115.85
+2025-01-30,Latin America,Clothing,1310.61,10,73,7642.51,2195.56
+2025-01-31,North America,Electronics,1238.06,5,71,4463.28,1374.79
+2025-02-01,North America,Office Supplies,1499.6,0,85,2898.16,852.81
+2025-02-02,Latin America,Electronics,1495.29,10,80,6913.5,2243.01
+2025-02-03,Europe,Electronics,877.6,15,48,1997.23,302.62
+2025-02-04,Europe,Home Appliances,1176.58,15,62,1844.89,323.29
+2025-02-05,North America,Clothing,1422.67,20,79,8389.7,3081.0
+2025-02-06,Latin America,Office Supplies,1289.51,5,77,5083.25,1628.86
+2025-02-07,North America,Home Appliances,446.29,10,24,2278.28,406.06
+2025-02-08,North America,Electronics,730.76,20,42,2060.47,742.84
+2025-02-09,Asia-Pacific,Clothing,280.82,10,23,2270.03,477.97
+2025-02-10,Asia-Pacific,Home Appliances,1435.67,5,81,2526.68,681.1
+2025-02-11,Asia-Pacific,Clothing,948.64,15,55,3057.85,569.67
+2025-02-12,Europe,Home Appliances,420.1,0,28,3298.57,1080.37
+2025-02-13,Latin America,Clothing,1040.38,15,60,5963.94,1888.86
+2025-02-14,Latin America,Electronics,965.38,20,57,3974.36,805.91
+2025-02-15,Latin America,Office Supplies,601.43,0,40,2159.11,789.91
+2025-02-16,Latin America,Electronics,258.98,20,21,2251.48,563.61
+2025-02-17,Asia-Pacific,Office Supplies,1040.2,5,65,4841.51,1080.28
+2025-02-18,Europe,Clothing,828.43,0,42,4025.39,757.11
+2025-02-19,Europe,Home Appliances,1181.25,20,69,6583.34,1425.57
+2025-02-20,Asia-Pacific,Electronics,828.23,5,52,1133.32,176.24
+2025-02-21,Europe,Office Supplies,1293.05,15,66,2153.27,636.97
+2025-02-22,Asia-Pacific,Electronics,872.67,5,56,4813.92,1735.7
+2025-02-23,Latin America,Office Supplies,885.31,10,50,1808.1,519.37
+2025-02-24,Asia-Pacific,Electronics,1327.32,5,74,3370.65,690.37
+2025-02-25,Latin America,Office Supplies,664.88,5,39,4471.89,708.42
+2025-02-26,Latin America,Office Supplies,287.62,10,23,1748.42,356.08
+2025-02-27,North America,Clothing,140.3,20,9,855.66,217.36
+2025-02-28,Asia-Pacific,Office Supplies,1157.19,20,68,5154.27,1751.95
+2025-03-01,North America,Clothing,968.43,5,56,4214.08,830.01
+2025-03-02,Asia-Pacific,Office Supplies,1085.71,10,60,1764.91,582.33
+2025-03-03,Asia-Pacific,Home Appliances,398.15,10,31,1685.36,618.08
+2025-03-04,North America,Home Appliances,290.92,15,19,916.62,241.52
+2025-03-05,North America,Home Appliances,120.36,20,16,945.17,335.87
+2025-03-06,Asia-Pacific,Office Supplies,590.82,0,44,4392.71,1268.02
+2025-03-07,Europe,Clothing,925.88,20,45,2573.7,795.98
+2025-03-08,Latin America,Clothing,649.14,20,44,2867.47,807.39
+2025-03-09,North America,Office Supplies,712.46,15,35,2090.83,555.73
+2025-03-10,Latin America,Home Appliances,1365.82,0,84,2464.63,514.28
+2025-03-11,Europe,Home Appliances,587.56,15,46,2948.93,665.86
+2025-03-12,Europe,Clothing,819.59,0,55,2175.85,484.11
+2025-03-13,Europe,Home Appliances,1197.11,5,58,2243.0,652.31
+2025-03-14,North America,Electronics,655.16,0,48,1411.37,254.03
+2025-03-15,Europe,Clothing,970.92,15,66,3674.03,1393.18
+2025-03-16,North America,Home Appliances,1307.31,20,69,6606.63,2181.27
+2025-03-17,Europe,Clothing,1429.33,0,81,3859.18,966.19
+2025-03-18,Latin America,Electronics,305.9,0,19,973.46,184.62
+2025-03-19,Latin America,Clothing,1397.22,10,79,6657.13,2466.45
+2025-03-20,Asia-Pacific,Clothing,788.96,20,51,2018.79,718.58
+2025-03-21,Latin America,Clothing,461.54,5,35,3839.35,1268.64
+2025-03-22,Asia-Pacific,Clothing,742.79,15,59,4249.12,925.83
+2025-03-23,Latin America,Electronics,1472.05,5,82,5310.34,1330.83
+2025-03-24,North America,Office Supplies,789.67,20,37,2803.93,492.61
+2025-03-25,Latin America,Clothing,560.25,0,38,1390.93,274.37
+2025-03-26,Asia-Pacific,Clothing,986.76,0,47,3823.32,1321.93
+2025-03-27,Asia-Pacific,Home Appliances,436.2,20,25,1407.75,462.81
+2025-03-28,Europe,Clothing,206.21,0,28,3072.12,916.63
+2025-03-29,North America,Home Appliances,280.43,0,25,922.14,344.82
+2025-03-30,Latin America,Office Supplies,279.26,0,24,1696.92,501.98
+2025-03-31,Europe,Electronics,312.66,15,31,2474.15,659.96
+2025-04-01,Latin America,Electronics,294.36,15,20,466.77,109.73
+2025-04-02,Latin America,Office Supplies,997.22,10,64,3607.64,1389.35
+2025-04-03,Europe,Electronics,354.63,5,27,2518.12,429.79
+2025-04-04,Europe,Office Supplies,583.93,20,37,3775.4,1444.93
+2025-04-05,Europe,Office Supplies,1355.5,20,67,3438.19,1226.33
+2025-04-06,Europe,Office Supplies,763.55,20,41,4094.23,747.13
+2025-04-07,Europe,Electronics,1034.58,10,52,6072.33,1768.54
+2025-04-08,Latin America,Home Appliances,341.25,15,23,2430.81,891.22
+2025-04-09,Europe,Office Supplies,369.2,10,28,889.4,260.55
+2025-04-10,North America,Clothing,157.22,20,8,751.78,283.27
+2025-04-11,Asia-Pacific,Electronics,336.51,5,36,1870.8,721.65
+2025-04-12,Europe,Office Supplies,490.03,0,35,4159.46,1063.14
+2025-04-13,Europe,Office Supplies,347.81,15,24,1644.86,401.89
+2025-04-14,Latin America,Clothing,224.18,15,22,709.35,272.45
+2025-04-15,Europe,Home Appliances,268.89,10,17,1572.82,501.39
+2025-04-16,Europe,Home Appliances,745.09,15,45,2353.55,421.3
+2025-04-17,Europe,Home Appliances,388.87,20,21,2513.86,403.66
+2025-04-18,Latin America,Office Supplies,609.98,20,44,5191.04,1511.41
+2025-04-19,Europe,Office Supplies,804.78,10,42,3595.76,1375.53
+2025-04-20,Asia-Pacific,Office Supplies,1066.55,20,59,1945.98,702.62
+2025-04-21,Latin America,Electronics,155.04,5,18,1596.35,509.17
+2025-04-22,Asia-Pacific,Clothing,1219.17,10,70,2051.21,379.02
+2025-04-23,Latin America,Office Supplies,979.06,5,55,1261.5,269.4
+2025-04-24,Europe,Clothing,214.46,0,16,1636.73,603.75
+2025-04-25,Asia-Pacific,Clothing,1323.01,5,72,2950.22,577.36
+2025-04-26,Latin America,Home Appliances,1389.22,0,82,4748.02,1042.71
+2025-04-27,North America,Electronics,185.51,0,18,2112.22,385.27
+2025-04-28,Europe,Office Supplies,487.63,5,37,1986.31,633.69
+2025-04-29,Latin America,Home Appliances,1228.68,10,71,3525.08,1360.67
+2025-04-30,North America,Home Appliances,1147.56,20,51,5702.86,1238.9
+2025-05-01,Latin America,Office Supplies,358.33,20,25,776.87,208.86
+2025-05-02,North America,Clothing,393.09,0,40,3838.33,1184.45
+2025-05-03,Europe,Home Appliances,618.66,0,47,5583.91,2232.82
+2025-05-04,Asia-Pacific,Clothing,778.33,10,49,5396.35,950.85
+2025-05-05,North America,Electronics,965.56,15,49,4173.17,1146.13
+2025-05-06,Latin America,Clothing,616.48,5,42,2159.06,531.73
+2025-05-07,Europe,Electronics,747.55,0,51,2317.04,849.09
+2025-05-08,North America,Clothing,1146.46,20,62,6319.38,1699.86
+2025-05-09,Latin America,Home Appliances,151.36,10,17,1835.7,326.29
+2025-05-10,Latin America,Home Appliances,453.41,5,39,2829.2,873.11
+2025-05-11,Latin America,Electronics,1098.69,10,58,2577.17,883.18
+2025-05-12,North America,Office Supplies,1353.29,5,71,2221.9,334.89
+2025-05-13,North America,Electronics,816.35,5,53,1522.05,555.15
+2025-05-14,North America,Electronics,844.96,0,54,4963.02,975.26
+2025-05-15,Asia-Pacific,Clothing,250.04,10,25,1550.3,446.51
+2025-05-16,North America,Clothing,726.38,10,47,5195.19,1319.32
+2025-05-17,North America,Electronics,845.66,20,45,4228.52,1395.05
+2025-05-18,North America,Home Appliances,439.46,20,30,1173.78,284.98
+2025-05-19,Asia-Pacific,Clothing,476.94,0,28,2278.58,837.24
+2025-05-20,North America,Office Supplies,628.2,0,40,2542.02,845.54
+2025-05-21,Latin America,Clothing,128.1,15,15,1165.87,363.67
+2025-05-22,North America,Clothing,550.91,20,31,2908.01,1015.07
+2025-05-23,Latin America,Office Supplies,396.03,5,41,4125.4,1396.47
+2025-05-24,Latin America,Electronics,558.5,10,26,2713.72,431.44
+2025-05-25,Latin America,Office Supplies,267.67,0,20,907.95,225.79
+2025-05-26,Asia-Pacific,Electronics,1346.74,10,70,1617.81,619.14
+2025-05-27,Asia-Pacific,Electronics,931.03,10,51,4790.4,869.13
+2025-05-28,Asia-Pacific,Electronics,1050.74,15,56,1715.52,573.45
+2025-05-29,North America,Office Supplies,1204.84,20,59,3038.03,1195.91
+2025-05-30,Latin America,Electronics,797.82,0,53,1080.23,176.13
+2025-05-31,Asia-Pacific,Home Appliances,221.69,10,16,1410.67,452.19
+2025-06-01,Asia-Pacific,Office Supplies,851.95,0,53,1945.8,519.6
+2025-06-02,North America,Home Appliances,921.58,5,52,4447.47,1311.09
+2025-06-03,Asia-Pacific,Electronics,1143.62,15,60,7150.46,1225.13
+2025-06-04,North America,Clothing,704.32,5,52,1417.89,227.93
+2025-06-05,Europe,Electronics,278.61,0,28,775.82,245.72
+2025-06-06,Asia-Pacific,Home Appliances,497.29,0,25,1350.95,480.7
+2025-06-07,Europe,Home Appliances,608.32,20,26,2772.6,957.94
+2025-06-08,North America,Office Supplies,1004.28,10,63,2617.84,748.58
+2025-06-09,Latin America,Clothing,899.09,10,50,2801.89,490.24
+2025-06-10,Asia-Pacific,Office Supplies,598.54,5,30,805.52,259.39
+2025-06-11,North America,Home Appliances,1481.12,15,86,8283.14,1743.37
+2025-06-12,Latin America,Electronics,948.08,10,56,3406.52,1286.87
+2025-06-13,Latin America,Clothing,432.12,20,28,2685.9,965.76
+2025-06-14,Europe,Electronics,242.5,5,25,2759.02,903.15
+2025-06-15,North America,Electronics,314.0,5,18,778.97,301.63
+2025-06-16,Latin America,Clothing,444.34,20,20,2014.79,318.05
+2025-06-17,Asia-Pacific,Office Supplies,324.95,15,31,803.19,268.31
+2025-06-18,Asia-Pacific,Electronics,361.19,20,16,1758.16,408.88
+2025-06-19,Europe,Home Appliances,499.13,15,25,2126.92,800.82
+2025-06-20,Latin America,Electronics,342.72,20,18,1933.61,418.95
+2025-06-21,North America,Clothing,1355.47,20,84,1681.58,556.96
+2025-06-22,Asia-Pacific,Clothing,212.33,0,23,848.89,313.59
+2025-06-23,Latin America,Clothing,834.32,5,55,3243.68,520.33
+2025-06-24,Latin America,Office Supplies,674.56,20,40,2318.01,578.14
+2025-06-25,Europe,Electronics,1475.33,20,76,3243.15,1104.54
+2025-06-26,Asia-Pacific,Office Supplies,256.85,10,23,1337.71,352.79
+2025-06-27,Asia-Pacific,Office Supplies,657.0,5,34,1118.09,242.42
+2025-06-28,North America,Clothing,1457.26,10,75,4595.71,941.9
+2025-06-29,Asia-Pacific,Clothing,1311.71,5,78,7818.36,1429.82
+2025-06-30,North America,Office Supplies,1243.9,10,63,4278.14,1558.45
+2025-07-01,Asia-Pacific,Electronics,461.06,20,28,610.4,179.36
+2025-07-02,Europe,Home Appliances,339.24,20,22,1367.18,231.18
+2025-07-03,Asia-Pacific,Office Supplies,1036.1,0,59,1340.33,329.25
+2025-07-04,North America,Electronics,1401.13,10,68,7930.46,1918.64
+2025-07-05,North America,Clothing,879.47,15,47,1539.03,300.78
+2025-07-06,Europe,Clothing,900.26,0,50,4538.44,1174.9
+2025-07-07,Asia-Pacific,Electronics,491.97,10,33,3870.16,901.84
+2025-07-08,Asia-Pacific,Home Appliances,1177.29,10,67,6874.46,1618.6
+2025-07-09,Europe,Clothing,361.86,0,29,2608.01,873.05
+2025-07-10,Asia-Pacific,Clothing,553.15,20,30,3118.38,641.81
+2025-07-11,Asia-Pacific,Clothing,695.61,10,45,5318.09,1651.08
+2025-07-12,North America,Electronics,810.65,20,38,3121.11,913.43
+2025-07-13,Asia-Pacific,Office Supplies,439.37,0,22,1670.21,487.74
+2025-07-14,Asia-Pacific,Clothing,260.77,20,7,579.77,183.06
+2025-07-15,Europe,Office Supplies,954.87,5,54,3956.45,1135.88
+2025-07-16,Europe,Home Appliances,504.08,15,28,2338.25,864.72
+2025-07-17,Latin America,Clothing,913.73,10,57,3704.1,1181.22
+2025-07-18,North America,Clothing,316.11,15,19,795.04,227.97
+2025-07-19,Asia-Pacific,Home Appliances,773.6,20,46,1473.14,526.56
+2025-07-20,Asia-Pacific,Clothing,845.63,10,54,1449.04,436.94
+2025-07-21,Latin America,Office Supplies,172.55,20,11,509.65,113.54
+2025-07-22,Asia-Pacific,Electronics,571.25,5,39,959.88,193.68
+2025-07-23,North America,Office Supplies,288.18,0,29,2224.8,418.44
+2025-07-24,Latin America,Electronics,188.72,10,11,532.21,199.51
+2025-07-25,North America,Electronics,1485.94,5,83,8503.64,2785.23
+2025-07-26,Latin America,Office Supplies,551.3,5,33,904.99,347.83
+2025-07-27,Latin America,Office Supplies,1233.82,10,63,2686.01,808.01
+2025-07-28,Europe,Office Supplies,456.5,20,21,1953.52,524.23
+2025-07-29,North America,Office Supplies,1054.1,5,55,4393.45,724.61
+2025-07-30,Asia-Pacific,Home Appliances,1164.32,15,65,1719.19,546.55
+2025-07-31,Asia-Pacific,Clothing,933.89,5,47,5063.03,1496.39
+2025-08-01,North America,Electronics,760.21,20,41,4416.77,1755.9
+2025-08-02,Asia-Pacific,Office Supplies,676.58,20,43,2280.75,478.48
+2025-08-03,Asia-Pacific,Office Supplies,588.42,15,38,2053.54,580.5
+2025-08-04,North America,Office Supplies,1401.34,5,76,9036.62,2826.11
+2025-08-05,Latin America,Home Appliances,1262.87,20,77,6361.56,1979.39
+2025-08-06,North America,Office Supplies,1451.04,10,90,6581.85,1910.86
+2025-08-07,Latin America,Office Supplies,274.02,0,23,2387.75,821.94
+2025-08-08,Asia-Pacific,Office Supplies,1123.21,0,53,2572.04,517.61
+2025-08-09,Asia-Pacific,Clothing,1413.68,0,85,5348.05,1772.38
+2025-08-10,Asia-Pacific,Home Appliances,353.73,5,15,701.67,213.96
+2025-08-11,Europe,Office Supplies,193.09,15,24,2373.99,887.92
+2025-08-12,Latin America,Electronics,1137.57,20,68,5258.78,1902.62
+2025-08-13,Europe,Electronics,904.26,10,62,5324.72,1218.23
+2025-08-14,Europe,Electronics,1278.56,10,73,3301.84,723.3
+2025-08-15,North America,Home Appliances,295.68,5,21,882.47,348.94
+2025-08-16,Europe,Home Appliances,1213.37,0,68,4680.95,1319.17
+2025-08-17,North America,Electronics,382.28,5,25,2343.91,882.73
+2025-08-18,North America,Office Supplies,329.12,15,28,2030.67,387.8
+2025-08-19,Europe,Home Appliances,329.97,15,27,628.14,195.17
+2025-08-20,Latin America,Electronics,1240.4,20,68,7266.15,2561.06
+2025-08-21,Latin America,Electronics,1031.28,20,53,1402.84,542.69
+2025-08-22,Latin America,Office Supplies,832.29,15,61,7050.53,1652.19
+2025-08-23,Latin America,Clothing,602.36,15,41,923.08,305.77
+2025-08-24,Latin America,Home Appliances,1328.08,15,65,5813.93,1655.24
+2025-08-25,Europe,Office Supplies,649.42,5,38,1072.39,177.11
+2025-08-26,Europe,Electronics,1243.24,15,73,8107.94,2614.81
+2025-08-27,Asia-Pacific,Electronics,714.79,10,39,2591.29,835.75
+2025-08-28,Latin America,Office Supplies,627.72,0,43,1451.35,555.36
+2025-08-29,Europe,Home Appliances,747.75,15,49,2650.0,726.97
+2025-08-30,Asia-Pacific,Clothing,521.93,0,19,693.17,143.88
+2025-08-31,Latin America,Clothing,1146.65,5,65,2408.78,388.15
+2025-09-01,North America,Electronics,803.81,0,49,5625.73,1428.43
+2025-09-02,Asia-Pacific,Home Appliances,425.1,5,28,1806.69,407.37
+2025-09-03,Europe,Clothing,1359.4,10,77,7613.78,2590.76
+2025-09-04,North America,Home Appliances,637.45,5,44,3694.26,881.33
+2025-09-05,North America,Home Appliances,860.97,5,52,4557.42,1764.94
+2025-09-06,North America,Electronics,1369.06,20,72,2388.19,932.77
+2025-09-07,Asia-Pacific,Clothing,973.93,15,58,2518.27,768.64
+2025-09-08,Europe,Office Supplies,263.66,15,20,1973.5,754.2
+2025-09-09,North America,Electronics,1415.76,10,77,9014.9,3066.99
+2025-09-10,Latin America,Clothing,978.79,10,50,2313.38,663.28
+2025-09-11,North America,Clothing,568.87,15,27,1273.24,248.38
+2025-09-12,North America,Clothing,294.98,20,14,942.06,249.32
+2025-09-13,Asia-Pacific,Clothing,1211.64,15,68,8050.11,2336.29
+2025-09-14,Asia-Pacific,Clothing,968.1,20,54,2532.38,926.83
+2025-09-15,Europe,Home Appliances,846.85,10,42,2549.28,689.16
+2025-09-16,Latin America,Electronics,1351.45,0,80,8731.84,3269.36
+2025-09-17,Asia-Pacific,Home Appliances,1204.04,10,75,1521.91,484.86
+2025-09-18,North America,Office Supplies,312.34,10,20,479.53,88.35
+2025-09-19,Europe,Clothing,536.41,5,27,2170.99,865.67
+2025-09-20,North America,Electronics,447.88,5,27,2989.93,842.59
+2025-09-21,North America,Clothing,1141.52,5,70,3072.0,761.75
+2025-09-22,Asia-Pacific,Electronics,146.95,5,19,1272.32,400.5
+2025-09-23,Europe,Home Appliances,897.85,20,46,2992.14,530.28
+2025-09-24,Latin America,Electronics,1167.44,15,72,4845.39,1497.88
+2025-09-25,Latin America,Office Supplies,1327.47,0,83,6826.91,1874.39
+2025-09-26,Asia-Pacific,Office Supplies,578.91,10,33,2210.15,556.23
+2025-09-27,Asia-Pacific,Electronics,1249.76,20,64,4143.8,1608.85
+2025-09-28,Europe,Electronics,254.88,0,19,1281.15,359.54
+2025-09-29,Latin America,Electronics,1285.03,20,67,5298.81,1085.09
+2025-09-30,Latin America,Electronics,278.48,20,24,1768.82,468.28
+2025-10-01,Latin America,Office Supplies,656.2,10,42,4427.37,1681.72
+2025-10-02,North America,Clothing,1216.21,15,72,1796.38,348.54
+2025-10-03,Latin America,Electronics,309.88,5,27,2789.96,567.73
+2025-10-04,North America,Electronics,420.95,15,36,3758.13,575.96
+2025-10-05,Europe,Office Supplies,1111.15,10,58,2812.47,431.85
+2025-10-06,North America,Office Supplies,1108.05,10,65,4308.54,1539.65
+2025-10-07,Europe,Home Appliances,997.61,10,47,3001.13,999.47
+2025-10-08,Latin America,Electronics,1071.53,0,56,2343.66,559.57
+2025-10-09,Latin America,Home Appliances,859.81,15,49,2924.3,949.16
+2025-10-10,Europe,Office Supplies,452.52,15,31,757.6,188.49
+2025-10-11,Asia-Pacific,Office Supplies,583.97,20,34,1624.6,630.71
+2025-10-12,Europe,Clothing,354.24,20,20,2033.36,796.6
+2025-10-13,Asia-Pacific,Electronics,1371.83,20,72,3488.85,865.93
+2025-10-14,North America,Home Appliances,916.75,10,60,6109.24,2221.05
+2025-10-15,North America,Office Supplies,661.19,15,38,2780.08,954.32
+2025-10-16,North America,Office Supplies,746.81,10,54,5831.26,1326.61
+2025-10-17,Latin America,Home Appliances,1426.2,0,85,6585.63,1369.88
+2025-10-18,North America,Clothing,314.69,20,24,551.2,145.82
+2025-10-19,Asia-Pacific,Office Supplies,920.72,10,48,4202.02,1451.11
+2025-10-20,North America,Electronics,808.24,10,53,1297.72,506.17
+2025-10-21,Europe,Office Supplies,956.04,0,55,3578.28,1219.82
+2025-10-22,Europe,Electronics,125.35,5,9,1016.48,369.8
+2025-10-23,Latin America,Home Appliances,1320.97,15,75,2739.03,823.81
+2025-10-24,Europe,Electronics,1404.97,5,72,4247.08,1524.07
+2025-10-25,Asia-Pacific,Home Appliances,891.19,20,46,4277.36,1480.42
+2025-10-26,North America,Electronics,1075.31,10,61,6601.78,1612.46
+2025-10-27,Latin America,Home Appliances,1391.5,0,90,7838.49,2257.47
+2025-10-28,North America,Electronics,1090.13,0,61,2794.86,981.52
+2025-10-29,North America,Clothing,313.55,15,20,1749.22,282.52
+2025-10-30,Asia-Pacific,Electronics,906.8,5,58,2881.02,1014.18
+2025-10-31,Europe,Electronics,949.4,15,48,4408.46,857.32
+2025-11-01,Europe,Clothing,693.78,10,44,5077.75,1415.02
+2025-11-02,North America,Office Supplies,1131.02,15,69,6357.61,2238.32
+2025-11-03,Latin America,Office Supplies,1408.11,0,78,8290.47,1769.64
+2025-11-04,Europe,Electronics,1395.8,0,84,1697.67,358.98
+2025-11-05,Latin America,Clothing,731.18,20,44,4037.32,1012.12
+2025-11-06,Europe,Electronics,258.53,20,15,1544.38,577.07
+2025-11-07,Latin America,Home Appliances,1478.78,10,80,1924.47,288.88
+2025-11-08,Asia-Pacific,Home Appliances,1274.46,5,70,7501.18,2815.54
+2025-11-09,Latin America,Electronics,274.53,15,20,913.39,172.13
+2025-11-10,Asia-Pacific,Office Supplies,1389.18,10,78,6749.28,2682.98
+2025-11-11,Asia-Pacific,Office Supplies,1317.85,20,74,7402.63,2877.49
+2025-11-12,Latin America,Electronics,826.37,15,50,4313.32,1180.42
+2025-11-13,Asia-Pacific,Electronics,927.79,20,40,1169.14,325.23
+2025-11-14,North America,Home Appliances,658.6,15,39,3105.65,839.73
+2025-11-15,Asia-Pacific,Office Supplies,176.67,5,10,749.58,231.52
+2025-11-16,Europe,Electronics,569.28,10,35,3851.12,665.01
+2025-11-17,Latin America,Home Appliances,1223.99,15,67,4048.41,640.27
+2025-11-18,North America,Office Supplies,106.48,0,20,1042.16,171.36
+2025-11-19,Latin America,Clothing,566.9,0,38,3609.43,942.39
+2025-11-20,Europe,Home Appliances,657.44,15,41,2511.97,549.84
+2025-11-21,Europe,Office Supplies,852.35,15,53,4484.31,1370.0
+2025-11-22,Europe,Office Supplies,1387.8,15,82,6940.89,2763.24
+2025-11-23,Asia-Pacific,Home Appliances,584.88,0,38,4134.55,1019.5
+2025-11-24,Asia-Pacific,Clothing,585.73,0,39,3114.9,914.1
+2025-11-25,Latin America,Home Appliances,1132.5,15,63,4423.57,1123.15
+2025-11-26,Latin America,Office Supplies,733.11,20,39,1321.6,478.18
+2025-11-27,North America,Electronics,414.45,20,22,694.62,260.87
+2025-11-28,North America,Electronics,733.42,5,34,1204.69,444.94
+2025-11-29,Latin America,Home Appliances,297.2,10,17,632.14,248.81
+2025-11-30,Asia-Pacific,Office Supplies,346.94,20,14,1173.03,184.02
+2025-12-01,Europe,Electronics,797.71,0,56,5269.5,1896.78
+2025-12-02,Latin America,Office Supplies,686.5,20,41,2992.97,1011.45
+2025-12-03,North America,Home Appliances,1380.78,5,77,7923.44,1641.53
+2025-12-04,Asia-Pacific,Electronics,607.35,5,35,4169.42,1622.24
+2025-12-05,Latin America,Office Supplies,912.82,10,53,5406.07,1011.18
+2025-12-06,Latin America,Electronics,985.17,20,51,4563.9,1459.93
+2025-12-07,Asia-Pacific,Home Appliances,118.33,0,16,1171.99,241.69
+2025-12-08,Latin America,Office Supplies,1028.95,0,62,4022.89,1037.28
+2025-12-09,Asia-Pacific,Electronics,349.25,15,20,568.78,187.58
+2025-12-10,Europe,Home Appliances,1445.5,0,77,4615.14,1342.23
+2025-12-11,Asia-Pacific,Electronics,308.13,10,28,3108.38,798.47
+2025-12-12,Asia-Pacific,Electronics,680.47,10,41,4132.89,957.11
+2025-12-13,Asia-Pacific,Clothing,219.49,0,17,707.29,254.56
+2025-12-14,Latin America,Clothing,1495.62,0,82,5466.18,1016.46
+2025-12-15,Latin America,Home Appliances,803.07,15,42,4270.24,1099.7
+2025-12-16,Asia-Pacific,Clothing,933.54,0,56,1497.35,562.91
+2025-12-17,Latin America,Home Appliances,193.91,15,20,1174.79,424.64
+2025-12-18,North America,Clothing,1149.94,15,64,6731.78,1684.53
+2025-12-19,North America,Electronics,393.87,0,41,2475.98,843.76
+2025-12-20,Latin America,Home Appliances,1357.28,5,78,2165.39,770.42
+2025-12-21,Latin America,Home Appliances,387.2,5,29,2153.35,801.52
+2025-12-22,Asia-Pacific,Electronics,366.96,15,20,2123.48,607.58
+2025-12-23,Europe,Home Appliances,151.17,0,16,1264.46,254.3
+2025-12-24,Latin America,Home Appliances,760.89,5,43,1833.0,391.95
+2025-12-25,North America,Clothing,890.78,0,43,2512.23,562.55
+2025-12-26,Asia-Pacific,Home Appliances,191.99,0,24,1560.3,465.67
+2025-12-27,Latin America,Office Supplies,1185.74,0,66,5143.16,813.66
+2025-12-28,North America,Electronics,734.6,20,38,3645.53,1126.51
+2025-12-29,North America,Clothing,834.15,0,52,1554.14,374.69
+2025-12-30,Europe,Clothing,717.07,20,44,4794.47,1073.05
+2025-12-31,Asia-Pacific,Office Supplies,661.07,15,38,806.78,298.41
+2026-01-01,Asia-Pacific,Electronics,883.5,5,53,3021.28,800.64
+2026-01-02,Europe,Electronics,317.34,5,28,636.78,110.65
+2026-01-03,Europe,Clothing,354.7,5,24,1423.14,507.62
+2026-01-04,Asia-Pacific,Home Appliances,1306.5,5,75,5443.59,881.37
+2026-01-05,Asia-Pacific,Clothing,1424.56,5,71,5052.94,1676.0
+2026-01-06,Latin America,Electronics,622.63,5,33,1206.57,414.43
+2026-01-07,Latin America,Office Supplies,479.04,5,35,2960.09,704.95
+2026-01-08,Europe,Clothing,1001.6,15,50,1223.89,435.95
+2026-01-09,Latin America,Electronics,672.23,0,44,4232.39,1180.48
+2026-01-10,North America,Clothing,135.54,10,14,1605.3,426.73
+2026-01-11,Latin America,Home Appliances,318.61,20,20,1079.54,174.18
+2026-01-12,Latin America,Clothing,1102.36,10,58,4159.99,925.63
+2026-01-13,North America,Clothing,1022.49,10,63,3647.13,1395.95
+2026-01-14,Europe,Electronics,137.93,0,25,516.78,128.14
+2026-01-15,North America,Electronics,410.76,0,32,1874.8,537.46
+2026-01-16,Latin America,Electronics,423.5,0,32,3173.5,898.12
+2026-01-17,Europe,Clothing,1040.65,5,57,4537.14,1350.29
+2026-01-18,Latin America,Home Appliances,127.59,15,7,210.88,34.87
+2026-01-19,North America,Office Supplies,245.75,5,21,2198.99,528.95
+2026-01-20,North America,Office Supplies,1219.88,15,63,4605.84,1523.53
+2026-01-21,Latin America,Electronics,349.96,15,15,1562.59,312.74
+2026-01-22,Asia-Pacific,Electronics,1013.84,10,62,4837.37,971.8
+2026-01-23,Asia-Pacific,Clothing,433.46,10,33,2506.97,382.37
+2026-01-24,North America,Office Supplies,239.22,15,14,427.36,110.84
+2026-01-25,North America,Electronics,440.44,15,30,1102.08,408.52
+2026-01-26,Asia-Pacific,Home Appliances,1111.17,5,69,8086.97,1317.98
+2026-01-27,Asia-Pacific,Home Appliances,1297.98,5,74,3170.8,627.12
+2026-01-28,Latin America,Electronics,1262.31,10,65,7653.44,1741.32
+2026-01-29,Latin America,Electronics,656.06,0,41,3000.84,999.07
+2026-01-30,Asia-Pacific,Office Supplies,1035.32,15,65,2182.63,676.96
+2026-01-31,Latin America,Office Supplies,386.98,5,29,867.98,220.45
+2026-02-01,Latin America,Clothing,510.41,10,36,1471.91,500.11
+2026-02-02,Europe,Office Supplies,1354.87,5,78,8779.97,2655.13
+2026-02-03,Latin America,Home Appliances,118.2,15,8,491.32,183.76
+2026-02-04,North America,Home Appliances,219.71,15,14,833.61,295.52
+2026-02-05,Latin America,Electronics,391.04,20,27,1385.66,295.43
+2026-02-06,Latin America,Office Supplies,137.15,0,20,694.12,151.22
+2026-02-07,Asia-Pacific,Clothing,354.01,20,29,1994.77,361.73
+2026-02-08,North America,Home Appliances,916.26,10,49,1617.23,378.82
+2026-02-09,Latin America,Home Appliances,689.99,5,45,4659.66,1863.33
+2026-02-10,Latin America,Clothing,1349.74,10,81,4620.22,1161.7
+2026-02-11,Europe,Clothing,1244.42,15,64,3678.74,754.59
+2026-02-12,Latin America,Home Appliances,578.54,20,42,2830.83,964.24
+2026-02-13,Latin America,Home Appliances,463.19,20,37,2383.27,680.7
+2026-02-14,Europe,Clothing,631.57,20,50,5974.29,1119.58
+2026-02-15,Asia-Pacific,Home Appliances,926.41,10,55,4099.6,1005.11
+2026-02-16,Latin America,Electronics,475.29,15,31,893.43,226.59
+2026-02-17,Europe,Electronics,973.81,5,61,4921.95,1665.87
+2026-02-18,North America,Clothing,673.18,5,46,1617.29,250.95
+2026-02-19,Asia-Pacific,Office Supplies,872.87,10,57,1316.34,285.98
+2026-02-20,North America,Clothing,710.58,20,45,5268.34,1471.97
+2026-02-21,North America,Clothing,512.25,0,35,3407.39,740.12
+2026-02-22,Europe,Office Supplies,1427.83,10,85,10030.93,3080.58
+2026-02-23,Latin America,Office Supplies,1169.05,10,61,4135.06,1118.4
+2026-02-24,Europe,Office Supplies,296.16,15,21,1537.74,369.72
+2026-02-25,Europe,Electronics,1315.86,5,82,3020.36,1169.79
+2026-02-26,Europe,Home Appliances,782.4,10,40,1787.63,550.66
+2026-02-27,Europe,Electronics,1352.37,10,72,7477.55,1364.54
+2026-02-28,Asia-Pacific,Home Appliances,1219.8,20,70,3893.3,1129.15
+2026-03-01,Latin America,Electronics,695.3,20,42,4312.62,1488.64
+2026-03-02,North America,Home Appliances,131.46,0,12,1090.82,356.83
+2026-03-03,North America,Electronics,476.15,15,28,1056.08,203.85
+2026-03-04,Latin America,Office Supplies,858.29,0,47,3325.0,1307.07
+2026-03-05,North America,Clothing,986.87,20,60,5264.32,1380.32
+2026-03-06,Latin America,Electronics,461.04,5,30,1305.11,247.65
+2026-03-07,North America,Home Appliances,295.1,20,29,2989.0,583.0
+2026-03-08,Europe,Office Supplies,1268.9,15,70,5213.79,910.11
+2026-03-09,North America,Electronics,1478.16,20,78,2848.89,999.62
+2026-03-10,Latin America,Electronics,835.97,15,47,3680.03,664.27
+2026-03-11,Latin America,Office Supplies,340.35,15,22,2639.37,478.47
+2026-03-12,Latin America,Electronics,481.23,15,31,1086.62,394.03
+2026-03-13,Latin America,Clothing,125.75,15,25,2541.89,600.27
+2026-03-14,Latin America,Electronics,1380.02,15,74,3014.09,475.37
+2026-03-15,Asia-Pacific,Clothing,264.85,5,20,1964.78,320.21
+2026-03-16,Asia-Pacific,Clothing,907.12,0,55,5140.18,953.72
+2026-03-17,North America,Office Supplies,483.68,10,37,1851.81,376.56
+2026-03-18,Latin America,Electronics,875.85,0,46,2418.79,765.03
+2026-03-19,North America,Office Supplies,1011.99,15,59,5855.88,1108.7
+2026-03-20,Latin America,Electronics,1261.64,5,67,4431.68,796.46
+2026-03-21,Latin America,Electronics,388.99,20,28,2606.29,889.21
+2026-03-22,Asia-Pacific,Home Appliances,115.39,5,12,417.58,132.69
+2026-03-23,Asia-Pacific,Electronics,291.64,15,10,1052.56,272.44
+2026-03-24,Europe,Office Supplies,1360.03,5,78,7104.9,2041.43
+2026-03-25,Asia-Pacific,Clothing,1323.45,5,76,8412.77,1918.08
+2026-03-26,Europe,Electronics,936.38,15,50,1661.86,449.74
+2026-03-27,Europe,Home Appliances,940.72,5,52,4123.68,1140.89
+2026-03-28,Europe,Office Supplies,1031.05,10,52,4155.43,1025.6
+2026-03-29,Europe,Electronics,345.52,10,29,1605.04,604.53
+2026-03-30,Europe,Office Supplies,1380.18,5,82,5399.42,831.59
+2026-03-31,North America,Home Appliances,686.28,20,35,832.94,287.82
+2026-04-01,Asia-Pacific,Home Appliances,636.39,15,36,3405.1,616.65
+2026-04-02,Europe,Office Supplies,826.48,10,49,3671.68,1282.84
+2026-04-03,Latin America,Electronics,165.75,20,25,644.35,195.87
+2026-04-04,Asia-Pacific,Clothing,332.8,5,28,2466.12,889.82
+2026-04-05,Asia-Pacific,Home Appliances,1133.25,20,57,3800.66,662.75
+2026-04-06,Europe,Electronics,215.92,0,22,515.81,149.45
+2026-04-07,North America,Electronics,944.41,10,48,5614.12,1545.41
+2026-04-08,Europe,Clothing,443.49,5,34,3906.98,1275.82
+2026-04-09,North America,Home Appliances,645.01,15,47,3350.64,950.15
+2026-04-10,Latin America,Home Appliances,504.17,5,42,1233.42,351.75
+2026-04-11,Asia-Pacific,Electronics,597.94,15,40,3818.48,982.87
+2026-04-12,Latin America,Electronics,1106.66,5,61,4220.78,959.0
+2026-04-13,North America,Clothing,515.97,20,25,1256.12,339.86
+2026-04-14,North America,Clothing,892.97,20,43,2973.1,534.04
+2026-04-15,Latin America,Home Appliances,766.47,20,30,2167.33,846.08
+2026-04-16,North America,Office Supplies,1029.14,0,64,4881.35,1604.02
+2026-04-17,Latin America,Home Appliances,1411.56,15,77,4937.42,1916.3
+2026-04-18,Asia-Pacific,Electronics,1125.6,20,66,5317.99,1099.13
+2026-04-19,Latin America,Home Appliances,400.92,0,37,4139.32,1530.87
+2026-04-20,Asia-Pacific,Office Supplies,143.66,15,14,787.18,277.24
+2026-04-21,Latin America,Clothing,467.17,5,33,3054.86,975.38
+2026-04-22,North America,Office Supplies,933.11,0,54,5910.04,1809.99
+2026-04-23,Latin America,Office Supplies,172.0,10,14,918.37,210.43
+2026-04-24,North America,Office Supplies,794.91,0,53,3410.32,1207.6
+2026-04-25,Latin America,Clothing,935.58,0,55,4411.64,1214.87
+2026-04-26,Latin America,Office Supplies,567.94,15,33,2611.64,438.03
+2026-04-27,Europe,Office Supplies,1179.28,5,67,6744.15,1539.12
+2026-04-28,North America,Office Supplies,249.24,10,24,1623.56,623.16
+2026-04-29,Europe,Electronics,205.19,20,12,1435.35,520.56
+2026-04-30,North America,Office Supplies,1119.46,20,61,1582.78,625.95
+2026-05-01,Europe,Clothing,793.69,0,50,1015.84,311.86
+2026-05-02,Asia-Pacific,Office Supplies,1063.76,15,65,5461.29,1157.12
+2026-05-03,Latin America,Office Supplies,708.76,15,41,2043.58,389.72
+2026-05-04,North America,Clothing,444.96,20,24,1056.92,207.93
+2026-05-05,North America,Office Supplies,1246.74,10,67,3429.72,531.43
+2026-05-06,Latin America,Clothing,1219.18,5,75,3420.36,847.12
+2026-05-07,North America,Office Supplies,1072.58,10,71,1638.61,324.21
+2026-05-08,North America,Clothing,481.0,5,26,3045.99,770.37
+2026-05-09,Europe,Office Supplies,926.32,20,46,1935.43,742.72
+2026-05-10,North America,Office Supplies,605.36,5,38,3549.31,914.43
+2026-05-11,Asia-Pacific,Electronics,228.21,15,18,1732.67,640.21
+2026-05-12,Asia-Pacific,Electronics,1384.24,0,83,9372.84,2824.75
+2026-05-13,Latin America,Office Supplies,291.55,0,20,461.1,97.65
+2026-05-14,North America,Office Supplies,1430.33,20,72,7718.75,1844.5
+2026-05-15,Latin America,Home Appliances,724.41,15,43,3127.07,534.67
